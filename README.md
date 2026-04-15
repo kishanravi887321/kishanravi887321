@@ -77,7 +77,7 @@
 <td width="52%" valign="top">
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Python+Developer+%7C+AI+Project+Builder;DSA+Learner+%7C+Problem+Solver;Building+Smart+Projects+with+Python" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Python+Developer+%7C+AI+Project+Builder;+Problem+Solver;Building+Smart+Projects+with+Python" />
 </p>
 
 <!-- Profile Views Counter -->
@@ -103,7 +103,7 @@
 <img src="https://leetcard.jacoblin.cool/atharvmaurya?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
 
-<img src="https://raw.githubusercontent.com/kishanravi887321/kishanravi887321/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/kishanravi887321/kishanravi887321/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
 </p>
 
 
