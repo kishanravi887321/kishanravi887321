@@ -106,11 +106,6 @@
 <img src="https://raw.githubusercontent.com/kishanravi887321/kishanravi887321/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
-### 🧠 Core Principles
-- 🔁 Consistency over perfection  
-- 🧱 Discipline over motivation  
-- ⚙️ Execution over noise  
-- 🏆 Results over words  
 
 </td>
 
@@ -123,8 +118,6 @@
 <!-- Animated Footer -->
 
 <p style="text-align:center; font-size:18px; font-style:italic;">
-🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
-</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
@@ -133,7 +126,6 @@
 
 
   
-⭐ If you like what I do, consider giving my repos a star! ⭐
 </p>
 
 </div>
