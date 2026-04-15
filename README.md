@@ -1,129 +1,139 @@
-<!-- 
-**kishanravi887321/kishanravi887321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RAVI%20KISHAN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=2x%20Hackathon%20Winner&descAlignY=52&descSize=18&descColor=fff"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Ravi+Kishan></a></p>
-    
+</div>
 
-    
-# 🖥️ Technical Skills: 
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.github.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/>
-  </a>
 
- 
-  
-  <a href="https://www.json.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/>
-  </a>
-  <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/>
-  </a>
 
- 
-  
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vscode" width="40" height="40"/>
-  </a>
 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://www.getpostman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
- 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-  </a>
-   <a
-    <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
+<table width="100%" cellspacing="0" cellpadding="0">
+<tr>
+
+<!-- LEFT PANEL -->
+<td width="48%" valign="top">
+
+
+### 🛠 Tech Languages Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://img.icons8.com/?size=100&id=40670&format=png&color=FFFFFF" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="40"/>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kishanravi887321&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=kishanravi887321&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kishanravi887321&theme=radical&hide_border=false)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kishanravi887321&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<!--START_SECTION:waka-->
+### 🧰 IDEs & Tools Use :
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
+<img src="https://img.icons8.com/?size=100&id=2xFS7aynbwiR&format=png&color=12B886" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>
+<img src="https://www.svgrepo.com/show/374065/scilab.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidworks.svg" width="40"/>
+<img src="https://img.shields.io/badge/EEZ_Studio-EDA-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-EDA-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/puTTY-EDA-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/WinSCP-EDA-red?style=flat-square"/>
 
-```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
-```
-<!--END_SECTION:waka-->
-![views since 2023/06/14](https://visitor-badge-deno.deno.dev/kishanravi887321.kishanravi887321.svg)
+</p>
+
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=kishanravi887321&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
+
+
+
+
+### 📊 GitHub Profile Summary
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kishanravi887321&theme=github_dark" width="80%" />
+
+<table width="95%">
+<tr>
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kishanravi887321&theme=github_dark" width="80%" />
+</td>
+</table>
+
+<table width="95%">
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kishanravi887321&theme=github_dark" width="80%" />
+</td>
+</tr>
+</table>
+
+
+</td>
+
+<!-- RIGHT PANEL -->
+<td width="52%" valign="top">
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=2600&pause=900&color=FFD700&center=true&vCenter=true&width=420&lines=Python+Developer+%7C+AI+Project+Builder;DSA+Learner+%7C+Problem+Solver;Building+Smart+Projects+with+Python" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kishanravi887321&color=FFD700&style=for-the-badge&label=Profile+Views" />
+</p>
+</div>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kishanravi887321&bg_color=000000&color=FFD700&line=FFD700&point=C0C0C0&area=true&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kishanravi887321&theme=highcontrast&hide_border=true" width="90%"/>
+</p>
+
+### 📜 LeetCode
+- 🔗 [View My LeetCode Profile](https://leetcode.com/u/atharvmaurya/)
+- 💻 Languages Used: Python
+
+<p>
+<img src="https://leetcard.jacoblin.cool/atharvmaurya?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
+</p>
+
+<img src="https://raw.githubusercontent.com/kishanravi887321/kishanravi887321/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+### 🧠 Core Principles
+- 🔁 Consistency over perfection  
+- 🧱 Discipline over motivation  
+- ⚙️ Execution over noise  
+- 🏆 Results over words  
+
+</td>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+  
+<!-- Animated Footer -->
+
+<p style="text-align:center; font-size:18px; font-style:italic;">
+🧘 “Every sleepless night is an investment in a future others won’t reach.” — Dev
+</p>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<p style="text-align:center; font-weight:bold; font-size:16px;">
+
+
+  
+⭐ If you like what I do, consider giving my repos a star! ⭐
+</p>
+
+</div>
